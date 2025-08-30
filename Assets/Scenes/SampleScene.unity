@@ -342,6 +342,12 @@ MonoBehaviour:
   sizeZ: 100
   noiseHeight: 7
   SeparacionGrid: 1.1
+  seed: 12345
+  reiterar: 0
+  noiseScale: 0.1
+  octaves: 4
+  persistence: 0.5
+  lacunarity: 2
 --- !u!4 &1023657947
 Transform:
   m_ObjectHideFlags: 0
